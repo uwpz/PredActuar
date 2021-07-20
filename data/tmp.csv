@@ -1,0 +1,41 @@
+;0
+IDpol;1000111.100a
+Year;2003
+DrivAge;44
+DrivGender;F
+MaritalStatus;Cohabiting
+BonusMalus;50
+LicenceNb;3
+PayFreq;Half-yearly
+JobCode;Private employee
+VehAge;10
+VehClass;Cheaper
+VehPower;P10
+VehGas;Regular
+VehUsage;Private+trip to office
+Garage;Closed zbox
+Area;A2
+Region;Headquarters
+Channel;A
+Marketing;M1
+PremWindscreen;15
+PremDamAll;0
+PremFire;0
+PremAcc1;0
+PremAcc2;0
+PremLegal;6
+PremTPLM;69.1
+PremTPLV;4
+PremServ;50
+PremTheft;0
+PremTot;144.1
+Damage;0
+Fire;0
+Other;0
+Theft;0
+TPL;0
+Windscreen;0
+OccurDate;
+Payment;
+IDclaim;
+Guarantee;
